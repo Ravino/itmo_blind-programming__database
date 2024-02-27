@@ -1,9 +1,9 @@
 # Взаимодействие с базами данных  
 
 # Содержание  
-* [Главная](https://github.com/Ravino/itmo_blind-programming__database/blob/main/README.md)
-* [Полезные материалы](https://github.com/Ravino/itmo_blind-programming__database/blob/main/sources.md)
-* [Список вопросов к зачёту](https://github.com/Ravino/itmo_blind-programming__database/blob/main/questions.md)
+* [Главная](https://github.com/Ravino/itmo_blind-programming__database/blob/master/README.md)
+* [Полезные материалы](https://github.com/Ravino/itmo_blind-programming__database/blob/master/sources.md)
+* [Список вопросов к зачёту](https://github.com/Ravino/itmo_blind-programming__database/blob/master/questions.md)
 
 
 ## Описание  
