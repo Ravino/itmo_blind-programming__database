@@ -1,6 +1,6 @@
 # Список полезных материалов
 
-* [postgresql](postgresql.org)  
+* [postgresql](https://postgresql.org)  
 * [mongodb](https://mongodb.com)  
 * [Онлайн руководство по mongodb](https://metanit.com/nosql/mongodb/)  
 * [Работа с PostgreSQL: от полного нуля до полного просветления](https://proglib.io/p/learn-postgresql)  
