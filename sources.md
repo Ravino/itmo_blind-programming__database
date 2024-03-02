@@ -8,3 +8,5 @@
 * [Требования ACID на простом языке](https://habr.com/ru/articles/555920/)  
 * [Теория шардирования](https://habr.com/ru/companies/oleg-bunin/articles/433370/)  
 * [Путеводитель по репликации баз данных](https://habr.com/ru/articles/514500/)  
+* [Основы Реляционной алгебры[(https://habr.com/ru/articles/145381/)  
+* [Диаграмма Эйлера](https://gb.ru/blog/diagrama-ejlera/)  
