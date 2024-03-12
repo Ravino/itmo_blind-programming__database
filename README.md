@@ -4,6 +4,7 @@
 * [Главная](https://github.com/Ravino/itmo_blind-programming__database/blob/master/README.md)
 * [Полезные материалы](https://github.com/Ravino/itmo_blind-programming__database/blob/master/sources.md)
 * [Список вопросов к зачёту](https://github.com/Ravino/itmo_blind-programming__database/blob/master/questions.md)
+* [Список практических домашних заданий](https://github.com/Ravino/itmo_blind-programming__database/blob/master/tasks.md)
 
 
 ## Описание  
